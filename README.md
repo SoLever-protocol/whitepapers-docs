@@ -1,0 +1,2 @@
+# Whitepapers and other docs
+This is a collection of whitepapers (and potentially other, similar, documentation) for the SoLever protocol. For now, this is just a version management solution for the whitepaper; the whitepaper is [the PDF in the appropriately-named directory](whitepaper/main.pdf)
